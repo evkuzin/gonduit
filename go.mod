@@ -1,4 +1,4 @@
-module github.com/uber/gonduit
+module github.com/evkuzin/gonduit
 
 go 1.11
 
