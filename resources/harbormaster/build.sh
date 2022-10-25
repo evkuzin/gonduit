@@ -6,7 +6,7 @@ rm -r /home/drydock/go/src
 
 mkdir -p /home/drydock/go/src/github.com/uber
 ln -sf $(pwd) /home/drydock/go/src/github.com/uber/
-cd /home/drydock/go/src/github.com/uber/gonduit
+cd /home/drydock/go/src/github.com/evkuzin/gonduit
 
 glide install
 go build $(glide novendor)

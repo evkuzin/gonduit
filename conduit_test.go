@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/uber/gonduit/core"
-	"github.com/uber/gonduit/test/server"
+	"github.com/evkuzin/gonduit/core"
+	"github.com/evkuzin/gonduit/test/server"
 )
 
 func TestConduitQuery(t *testing.T) {

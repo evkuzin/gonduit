@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/uber/gonduit/entities"
-	"github.com/uber/gonduit/util"
+	"github.com/evkuzin/gonduit/entities"
+	"github.com/evkuzin/gonduit/util"
 )
 
 // ManiphestQueryResponse is the response of calling maniphest.query.

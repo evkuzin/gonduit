@@ -3,7 +3,7 @@ package gonduit
 import (
 	"time"
 
-	"github.com/uber/gonduit/util"
+	"github.com/evkuzin/gonduit/util"
 )
 
 // t is a wrapper function being used in tests to quickly convert timestamp

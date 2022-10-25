@@ -1,6 +1,6 @@
 package responses
 
-import "github.com/uber/gonduit/util"
+import "github.com/evkuzin/gonduit/util"
 
 // SearchAttachmentSubscribers is common attachment with subscribers information
 // for *.search API methods.

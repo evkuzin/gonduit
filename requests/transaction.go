@@ -1,7 +1,7 @@
 package requests
 
 import (
-	"github.com/uber/gonduit/entities"
+	"github.com/evkuzin/gonduit/entities"
 )
 
 // TransactionSearchRequest represents a request to

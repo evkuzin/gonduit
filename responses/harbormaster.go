@@ -1,8 +1,8 @@
 package responses
 
 import (
-	"github.com/uber/gonduit/entities"
-	"github.com/uber/gonduit/util"
+	"github.com/evkuzin/gonduit/entities"
+	"github.com/evkuzin/gonduit/util"
 )
 
 // HarbormasterBuildableSearchResponse contains fields that are in server

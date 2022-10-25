@@ -1,9 +1,9 @@
 package gonduit
 
 import (
-	"github.com/uber/gonduit/entities"
-	"github.com/uber/gonduit/requests"
-	"github.com/uber/gonduit/responses"
+	"github.com/evkuzin/gonduit/entities"
+	"github.com/evkuzin/gonduit/requests"
+	"github.com/evkuzin/gonduit/responses"
 )
 
 // ManiphestQuery performs a call to maniphest.query.

@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/uber/gonduit/constants"
-	"github.com/uber/gonduit/entities"
-	"github.com/uber/gonduit/util"
+	"github.com/evkuzin/gonduit/constants"
+	"github.com/evkuzin/gonduit/entities"
+	"github.com/evkuzin/gonduit/util"
 )
 
 // ManiphestQueryRequest represents a request to maniphest.query.

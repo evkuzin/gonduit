@@ -1,6 +1,6 @@
 package requests
 
-import "github.com/uber/gonduit/entities"
+import "github.com/evkuzin/gonduit/entities"
 
 // EdgeSearchRequest represents a request to the edge.search call.
 type EdgeSearchRequest struct {
